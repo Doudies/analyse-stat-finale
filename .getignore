@@ -1,0 +1,14 @@
+# Fichiers à ignorer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+dist/
+build/
+*.spec
+*.exe
+.DS_Store

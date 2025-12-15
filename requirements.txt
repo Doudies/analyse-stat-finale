@@ -1,0 +1,24 @@
+# CORE STREAMLIT & DATA
+streamlit==1.36.0
+pandas==2.2.0
+numpy==1.26.0
+openpyxl==3.1.0
+
+# VISUALISATION
+plotly==5.24.1
+matplotlib==3.8.0
+seaborn==0.13.2
+
+# STATISTIQUES & TESTS
+scipy==1.13.0
+statsmodels==0.14.2
+scikit-learn==1.5.0
+
+# OPTIMISATION (pour tes modèles avancés)
+scikit-optimize==0.10.0
+
+# UTILITAIRES
+python-dateutil==2.9.0.post0
+pytz==2024.1
+tzdata==2024.1
+xlrd==2.0.1
